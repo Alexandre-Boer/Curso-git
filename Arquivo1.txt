@@ -1,1 +1,3 @@
 Esse arquivo é apenas para o curso de git!
+
+Canal do youtube do criador do curso: https://www.youtube.com/c/DevAprender/featured
